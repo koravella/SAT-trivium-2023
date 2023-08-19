@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Other
+examples
+trivium/gen_assume
+trivium/gen_input_reg
+trivium/trivium_no_init_cycle
+trivium/use_trivium
+trivium/use_trivium_noinit
+trivium/inout
